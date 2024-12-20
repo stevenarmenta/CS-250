@@ -1,1 +1,10 @@
 # CS-250
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+I interpret user needs by communicating directly with the user and gathering requirements via user surveys, and client meetings where the user communicates their goals and challenges. I implement these needs with Agile practices such as Sprints and Agile Scrum approach of turning user needs into user stories. User stories are important the the Agile Scrum team because they provide an understanding of what the user wants to the Development team and breaks down complex requirements into manageable tasks. User stories help implement user needs because they ensure features meet actual user needs not just technical specifications and encourage feedback from users.  
+
+# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I approach developing programs by using the Agile methodology by incorporating sprints, user stories, and backlog management. I hope to incorporate Agile into developing programs because it is more efficient and flexible to technologies changing environment. I hope to incoporate Agiel processes into my future development work by incorporating Sprints, time boxed iterations of 1 to 2 weeks to deliver a functional piece of the program and user stories because it ensures the program meets user needs. This is important because user needs are constantly chaning and creating user stories helps the development teams understand deliverables. 
+
+# What does it mean to be a good team member in software development?
+A good team member in software development means to communicate clearly and transparantly with your team. A good team member in software development shares best practices with other team members of the development team and assist the team all together such as in Agile Scrum events like the Daily Scrum and Sprint Retrospective. Striving to be a good team member is very important because communication and helping each other can make for an effective team. 
